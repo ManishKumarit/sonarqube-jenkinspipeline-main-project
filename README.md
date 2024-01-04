@@ -1,1 +1,1 @@
-# sonarqube-jenkinspipeline-main-project
+# sonarqube-jenkinspipeline
